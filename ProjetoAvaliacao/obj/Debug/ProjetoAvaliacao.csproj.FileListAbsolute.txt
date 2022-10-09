@@ -1,0 +1,11 @@
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\bin\Debug\ProjetoAvaliacao.exe.config
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\bin\Debug\ProjetoAvaliacao.exe
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\bin\Debug\ProjetoAvaliacao.pdb
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.csproj.AssemblyReference.cache
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.csproj.CoreCompileInputs.cache
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.exe
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.pdb
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eanto\source\repos\ProjetoAvaliacao\ProjetoAvaliacao\obj\Debug\ProjetoAvaliacao.csproj.CopyComplete
